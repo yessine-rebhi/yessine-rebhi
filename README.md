@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img align="right" height="150" src="zoro-github.png" alt="GitHub zoro" />
+  <img height="150" src="zoro-github.png" alt="GitHub zoro" />
 </div>
 
 ###
