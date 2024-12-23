@@ -45,6 +45,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yessine-rebhi/yessine-rebhi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yessine-rebhi/yessine-rebhi/output/github-snake.svg" />
 </picture>
+
 ###
 
 <div align="center">
@@ -53,8 +54,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yessine-rebhi/count.svg?"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yessine-rebhi.yessine-rebhi&"  />
 
 ###
