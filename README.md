@@ -1,8 +1,8 @@
 <div>
-  <img align="right" width="30%" src="zoro-github.png">
+  <img align="right" width="24%" src="zoro-github.png">
 </div>
 
-<h2 align="left">Hello world 👋! Im Yessin Rebhi, a full stack web developer 🌐</h2>
+<h2 align="left" style="margin-top: 0; border-bottom:0">Hello world 👋! Im Yessin Rebhi, a full stack web developer 🌐</h2>
 
 ###
 
@@ -53,8 +53,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="13" />
@@ -76,10 +74,6 @@
   <img width="13" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yessine-rebhi/yessine-rebhi/output/github-snake-dark.svg" />
@@ -110,7 +104,6 @@
 <a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yessine-rebhi.yessine-rebhi&"  />
 
