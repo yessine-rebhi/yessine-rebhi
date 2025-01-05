@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="24%" src="zoro-github.png">
+  <img align="right" width="30%" src="zoro-github.png">
 </div>
 
 <h2 align="left" style="border-bottom: none !important;">Hello world 👋! Im Yessin Rebhi, a full stack web developer 🌐</h2>
@@ -101,7 +101,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://buymeacoffee.com/rabhiyassik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
