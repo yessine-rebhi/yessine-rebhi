@@ -2,7 +2,7 @@
   <img align="right" width="24%" src="zoro-github.png">
 </div>
 
-<h2 align="left" style="border-bottom:none">Hello world 👋! Im Yessin Rebhi, a full stack web developer 🌐</h2>
+<h2 align="left" style="border-bottom:none !important;">Hello world 👋! Im Yessin Rebhi, a full stack web developer 🌐</h2>
 
 ###
 
